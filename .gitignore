@@ -1,0 +1,21 @@
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*~
+*.class
+*.orig
+*.log
+*.classpath
+target/*
+.settings/*
+.metadata/*
+resources/application.properties
+/target
+application.properties
+nb-configuration.xml
+/**/glassfish-web.xml
+/**/glassfish-resources.xml
+/bin/
